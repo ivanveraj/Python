@@ -1,0 +1,3 @@
+django-admin startproject proyecto crea proyecto
+
+django-admin startapp prueba crear prueba o sistema  

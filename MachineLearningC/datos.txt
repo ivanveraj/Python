@@ -1,0 +1,7 @@
+Documento       Nombre
+13358886        Wilfred
+25262625        Andrés
+58595959        Jerónimo
+98576452        Alejandro
+10050122        Jaider
+50021           Ivan

@@ -1,0 +1,31 @@
+nombre	telefono	documento	edad	peso	genero
+Dabeiba Yolanda Vence Arrieta	3012047833	1006870715	18	44	femenino
+Claudia Inés Correa Campo	3116173739	1062424826	16	26	femenino
+Sebastian Muñoz	3203724831	1013613330	12	32	masculino
+DIANA PATRICIA MORALES DOMINGUEZ	3206712430	1114879981	13	31	femenino
+CINDY DIAZ	3132130128	1011218590	8	28	femenino
+Julieth Viviana pinto romero	3112373592	1115913196	10	30	femenino
+Yeni Ariza Ardila	3188895230	1099205500	13	31	femenino
+YURY YOJARY LARA ALVARADO	3135373180	1080421072	16	40	femenino
+DANIELA ZAPATA GALLEGO	3206864195	1020228934	7	27	femenino
+Diana Marcela Gomez Bermudez	3197566485	1127958478	7	32	femenino
+Dennis Yulissa Fernandez Quintero	3132953870	1094044288	16	23	femenino
+Diana María Gómez Ramos	3106267683	1003399511	17	39	femenino
+Dennis Yulissa Fernandez Quintero	3132953870	1094044288	16	23	femenino
+Martin Poveda	3214449834	1011231384	6	35	masculino
+Andrea Sánchez	3002481733	1137532871	7	30	femenino
+Yenny Yohana Muñoz Ramírez	3016454012	1129583678	10	35	femenino
+Carol Marcela González Ramírez	3208506782	1075224274	14	34	femenino
+Carol Marcela González Ramírez	3208506782	1076509720	7	36	femenino
+Andres Felipe Molina Loaiza	3137852696	1096040813	16	36	masculino
+claudia patricia valencia duque	3205146580	1091885044	12	40	femenino
+Indira Sanjuán Cuadro	3145159753	1201223338	9	34	femenino
+Doris Jimenez Rodriguez	3156966828	1007958379	18	45	femenino
+claudia patricia valencia	3205146580	1064188627	14	40	femenino
+Arnold Enrique Carrillo Carcamo	3052234242	1142929162	10	28	masculino
+Maria del Carmen Perez	3114018441	1047410533	13	35	femenino
+Luisa Fernanda Ortíz Monsalve	3147249475	1037776575	15	35	femenino
+orfelina medoza gelvez	3212056724	60349061	49	49	femenino
+Cecilia Margarita Correa de la Espriella	3017701019	1048602495	13	51	femenino
+Islena del Pilar Triana	3222830885	1028783998	13	32	femenino
+Heidy Alejandra Niño Muñoz		1029519718	15	40	femenino
